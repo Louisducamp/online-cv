@@ -16,7 +16,7 @@ sidebar:
     email: louismarie.ducamp@mail.polimi.it
     phone: +33 7 81 50 50 30
     citizenship: French
-    website: blog.webjeda.com #do not add http://
+    website: #do not add http://
     linkedin: louis-ducamp
     xing:
     github: Louisducamp
@@ -62,12 +62,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a final-year Master's student pursuing a dual degree program in Biomedical Sciences between Politecnico di Milano and Centrale Lille. My academic journey, combined with a strong passion for the fields of biomedicine and artificial intelligence, has equipped me with a unique expertise in biomedical data analysis, opening promising avenues for my future career.
 education:
     title: Education
     info:
