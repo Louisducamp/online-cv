@@ -32,25 +32,31 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: French
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: C1
 
+        - idiom: Italian
+          level: A2
+          
         - idiom: Spanish
-          level: Professional
+          level: A2
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Running
           link:
 
-        - item: Snowboarding
+        - item: Biking
           link:
 
-        - item: Cooking
+        - item: Woodcrafting
+          link:
+          
+        - item: Formula 1
           link:
 
 career-profile:
