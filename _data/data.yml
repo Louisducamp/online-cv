@@ -4,30 +4,30 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebarhttps://github.com/Louisducamp/online-cv/blob/master/_data/data.yml
 
     # Profile information
-    name: Guillaume Francois Deside
+    name: Louis Ducamp
     tagline: Biomedical engineer
-    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profil.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: guillaume.deside@hotmail.com
-    phone: +32475228008
-    timezone: UTC+01:00
-    citizenship: Belgian
-    linkedin: guillaume-deside
-  #  xing: 
-    github: gdeside
-  # telegram: # add your nickname without '@' sign
-   # gitlab:
-  #  bitbucket:
-  #  twitter: 
-  #  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  #  codewars:
-  #  goodreads: # Number-Username, e.g. 123456-alandoe
-  #  pdf: 
+    email: louismarie.ducamp@mail.polimi.it
+    phone: +33 7 81 50 50 30
+    citizenship: French
+    website: #do not add http://
+    linkedin: louis-ducamp-5843691b6
+    xing:
+    github: Louisducamp
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -36,36 +36,36 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
-
-        - idiom: Dutch
-          level: Basic
+          level: C1
 
         - idiom: Italian
-          level: Basic
+          level: A2
+          
+        - idiom: Spanish
+          level: A2
 
     interests:
       title: Interests
       info:
-        - item: Football
-          link:
-
         - item: Running
           link:
 
-        - item: Cycling
+        - item: Biking
+          link:
+
+        - item: Woodcrafting
+          link:
+          
+        - item: Formula 1
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I am a final-year Master's student pursuing a double degree from Politecnico di Milano and Université Catholique de Louvain-la-Neuve. My academic journey has specialized in cutting-edge fields such as Biomedical Data, Artificial Intelligence, Big Data, and Statistical Analysis of Clinical Trials.
-      
-      Throughout my studies, I have acquired a strong foundation in these areas, equipping me with the necessary skills to tackle complex challenges and contribute to innovative projects. I have a keen interest in data-driven healthcare solutions, and my education has provided me with the expertise to address the evolving needs of the healthcare industry.
-      
-      My experiences have not only fostered my technical abilities but have also honed my teamwork and collaboration skills. I thrive in a collaborative environment, and I am adept at working with diverse teams to achieve common goals.
-      
-      I am passionate about applying my knowledge and skills to make a positive impact in the field of biomedical data and healthcare. As I transition from academia into the professional world, I am eager to contribute to cutting-edge research and development projects, with a strong focus on leveraging data and technology to improve healthcare outcomes.
+      I am a final-year Master's student pursuing a dual degree program in Biomedical Sciences between Politecnico di Milano and Centrale Lille. My academic journey, combined with a strong passion for the fields of biomedicine and artificial intelligence, has equipped me with knowledge in biomedical data analysis.
+
+      I am excited about the prospect of collaborating with researchers, healthcare professionals, and biomedical companies to tackle current medical challenges using data analysis and artificial intelligence. My aspiration is to become a key player in biomedical innovation and to make significant contributions to the well-being of humanity.
+
 education:
     title: Education
     info:
@@ -74,150 +74,120 @@ education:
         time: 2022 - 2024
         details: |
           Major in Information Bioengineering
-            - Medical informatics
-            - Biomedical singal porcessing laboratory
-            - Technologies for sensors and clinical instrumentation
-            - Healthcare management
             - Model identification AND machine learning
+            - Neuroengineering
+            - Methods and applications of AI in biomedicine
+            - Biomedical signal processing laboratory
+            - Biomedical singal processing and medical images
+            - Computational biology of the heart
+            - Medical informatics
             - Bioengineering of neurosensory systems
             - Bioengineering of physiological control systems
             - Analysis and organization of health systems
-            - Biomedical singal processing and medical images
-            - Biomedical signal processing laboratory
             - ICT for healthcare
-            - Neuroengineering
-            - Methods and applications of AI in biomedicine
+            - Functional assessment and motor rehabilitation
+            - Analysis and organization of health systems
       - degree: T.I.M.E Double Degree MSc Biomedical engineering
-        university: Université Catholique de Louvain-la-Neuve
-        time: 2021 - 2024
+        university: École Centrale de Lille
+        time: 2020 - 2024
         details: |
-          Major in Clinical engineering and Acquisition and processing of biomedical data
-            - Signal processing
-            - Artificial intelligence
-            - Electronic digital systems
-            - Introduction to clinical engineering
-            - Databases
-            - Statistics in clinical trials
-            - Medical images
-            - Bioinstrumentation
-      - degree: BSc in Engineering
-        university: Université Catholique de Louvain-la-Neuve
-        time: 2018 - 2022
+          Core courses :
+            - Biomedical Engineering - Mechanics in the Service of Life
+            - Random Modeling and Scientific Computing
+            - Engineering Analysis
+            - Complexity Modeling
+            - Sociology of Organizations
+      - degree: BSc in Mathematics in double degree with Centrale Lille
+        university: University of Lille
+        time: 2020 - 2021
         details: |
-          Major in Biomedical engineering and Computer science
-
-experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+          Statistics, Complex Analysis, Algebra, Topography,...
+      - degree: CPGE (Classe Préparatoire aux Grandes Écoles)
+        university: Sainte Marie High School
+        time: 2018 - 2020
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: SAS
-          start: 2023
-          end: 2024
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+          Specialisation in Physics & Engineering Science
 
 projects:
     title: Projects
-    intro: >
-      A list of my projects
     assignments:
-      - title: Sleep EEG analysis
-        link: "#"
-        tagline: "Python project to analyse brain activity phases from night EEGs"
+      - title: Python project to automatically compute tumor size from a brains MRIs
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: Python project to analyse brain activity phases from night EEGs
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: Matlab project to analyse effect of a drug on Human Ventricle Cells
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
+        
+      - title: Projet MiniTrack
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: Creation of a medical traction test machine in collaboration with the CNRS laboratory LaMcube
+        details: |
+            – Electrical assembly design
+            – Implementation of sensors and ADC on a Raspberry Pi
 
-      - title: Delta
+      - title: Project of an Artificial Respirator
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: CAO design of the respirator, and arduino implementation of material
 
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+      - title: Mechanical Hand Prosthesis Project
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        tagline: CAO design of the prosthesis, 3D printing and assembly
+
+
+            
+experiences:
+    title: Experiences
+    info:
+      - role: Operator Internship
+        time: Jan-Fev 2021
+        company: Atelier de Fabrication d'Agenda, Paris
+        details: |
+          Discovery of the entire production process from folding to laminating. Four weeks of work on the assembly line (folding, cutting, assembly).
+      - role: Seasonal Employment
+        time: 
+        company: Groupement Forestier de La Lucerne d'Outremer
+        details: |
+            Long-term and medium-term cutting plan projections.
+
+            
+certifications:
+      title: Certifications
+      list:
+        - name: TOEIC
+          start: 
+          end: 
+          organization: ETS : Educational Testing Service
+          credentialid:
+          credentialurl:
+          credentialname:
+          details: |
+           935/990
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
-        level: 98%
+      - name: Python
+        level: 80%
 
-      - name: Java
-        level: 75%
+      - name: SQL
+        level: 70%
 
-      - name: C
-        level: 98%
+      - name: Matlab
+        level: 70%
 
-      - name: R
-        level: 95%
+      - name: HTML5 & CSS
+        level: 80%
 
-      - name: R
+      - name: Ruby on Rails
         level: 85%
 
-      - name: Office
-        level: 60%
+      - name: Photoshop & After Effect & Premier
+        level: 70%
 
 footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
