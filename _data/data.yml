@@ -90,7 +90,45 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+            
+education:
+    title: Education
+    info:
+      - degree: T.I.M.E Double Degree MSc Biomedical engineering
+        university: Politecnico di Milano
+        time: 2022 - 2024
+        details: |
+          Major in Information Bioengineering
+            - Model identification AND machine learning
+            - Neuroengineering
+            - Methods and applications of AI in biomedicine
+            - Biomedical signal processing laboratory
+            - Biomedical singal processing and medical images
+            - Computational biology of the heart
+            - Medical informatics
+            - Bioengineering of neurosensory systems
+            - Bioengineering of physiological control systems
+            - Analysis and organization of health systems
+            - ICT for healthcare
+            - Functional assessment and motor rehabilitation
+            - Analysis and organization of health systems
+      - degree: T.I.M.E Double Degree MSc Biomedical engineering
+        university: École Centrale de Lille
+        time: 2020 - 2024
+        details: |
+          Core courses :
+            - Biomedical Engineering - Mechanics in the Service of Life
+            - Random Modeling and Scientific Computing
+            - Engineering Analysis
+            - Complexity Modeling
+            - Sociology of Organizations
+      - degree: BSc in Mathematics in double degree with Centrale Lille
+        university: Université Catholique de Louvain-la-Neuve
+        time: 2018 - 2022
+        details: |
+          Major in Biomedical engineering and Computer science
 
+            
 experiences:
     title: Experiences
     info:
