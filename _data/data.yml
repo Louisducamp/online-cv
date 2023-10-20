@@ -121,6 +121,10 @@ projects:
 
       - title: Matlab project to analyse effect of a drug on Human Ventricle Cells
         link: "#"
+
+      - title: Machine Learning project in python using (NumPy, Panda, Matplotlib, Seaborn Scikit learn) to analyse brain activity phases from night EEGs
+        link: https://github.com/Louisducamp/Projet-MIML.git
+        tagline: "A responsive website template designed to help web developers/designers market their services."
         
       - title: Projet MiniTrack
         link: "#"
