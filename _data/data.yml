@@ -134,11 +134,11 @@ projects:
             – Implementation of sensors and ADC on a Raspberry Pi
 
       - title: Project of an Artificial Respirator
-        link: "#"
+        link: 
         tagline: CAO design of the respirator, and arduino implementation of material
 
       - title: Mechanical Hand Prosthesis Project
-        link: "#"
+        link: 
         tagline: CAO design of the prosthesis, 3D printing and assembly
 
 
