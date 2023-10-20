@@ -69,7 +69,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc Biomedical engineering (2 years)
+      - degree: MSc Biomedical engineering
         university: Politecnico di Milano
         time: 2022 - 2024
         details: |
@@ -87,7 +87,7 @@ education:
             - ICT for healthcare
             - Functional assessment and motor rehabilitation
             - Analysis and organization of health systems
-      - degree: MSc Generalist engineering (4 years)
+      - degree: MSc Generalist engineering
         university: École Centrale de Lille
         time: 2020 - 2024
         details: |
