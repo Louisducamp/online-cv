@@ -115,16 +115,17 @@ projects:
         link: 
         tagline: to automatically compute tumor size from a brains MRIs
         
-      - title: Python project to analyse brain activity phases from night EEGs
+      - title: Python project
         link: 
-        tagline:
+        tagline: to analyse brain activity phases from night EEGs
 
-      - title: Matlab project to analyse effect of a drug on Human Ventricle Cells
+      - title: Matlab project 
         link: 
+        tagline: to analyse effect of a drug on Human Ventricle Cells
 
-      - title: Machine Learning project in python using (NumPy, Panda, Matplotlib, Seaborn Scikit learn) to analyse brain activity phases from night EEGs
+      - title: Machine Learning project
         link: https://github.com/Louisducamp/Projet-MIML.git
-        tagline: 
+        tagline: in python using (NumPy, Panda, Matplotlib, Seaborn Scikit learn) to analyse brain activity phases from night EEGs
         
       - title: Projet MiniTrack
         link: 
@@ -191,6 +192,3 @@ skills:
 
       - name: Photoshop & After Effect & Premier
         level: 70%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
