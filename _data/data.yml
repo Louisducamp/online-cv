@@ -69,7 +69,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: T.I.M.E Double Degree MSc Biomedical engineering
+      - degree: MSc Biomedical engineering (2 years)
         university: Politecnico di Milano
         time: 2022 - 2024
         details: |
@@ -87,7 +87,7 @@ education:
             - ICT for healthcare
             - Functional assessment and motor rehabilitation
             - Analysis and organization of health systems
-      - degree: MSc Generalist engineering
+      - degree: MSc Generalist engineering (4 years)
         university: École Centrale de Lille
         time: 2020 - 2024
         details: |
@@ -97,7 +97,7 @@ education:
             - Engineering Analysis
             - Complexity Modeling
             - Sociology of Organizations
-      - degree: BSc in Mathematics (double degree)
+      - degree: BSc in Mathematics
         university: University of Lille
         time: 2020 - 2021
         details: |
