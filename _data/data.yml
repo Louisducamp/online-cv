@@ -112,22 +112,22 @@ projects:
     title: Projects
     assignments:
       - title: Python project to automatically compute tumor size from a brains MRIs
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
+        link: 
+        tagline: 
+        
       - title: Python project to analyse brain activity phases from night EEGs
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: 
+        tagline:
 
       - title: Matlab project to analyse effect of a drug on Human Ventricle Cells
-        link: "#"
+        link: 
 
       - title: Machine Learning project in python using (NumPy, Panda, Matplotlib, Seaborn Scikit learn) to analyse brain activity phases from night EEGs
         link: https://github.com/Louisducamp/Projet-MIML.git
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: 
         
       - title: Projet MiniTrack
-        link: "#"
+        link: 
         tagline: Creation of a medical traction test machine in collaboration with the CNRS laboratory LaMcube
         details: |
             – Electrical assembly design
