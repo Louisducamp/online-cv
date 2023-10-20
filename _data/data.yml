@@ -111,9 +111,9 @@ education:
 projects:
     title: Projects
     assignments:
-      - title: Python project to automatically compute tumor size from a brains MRIs
+      - title: Python project
         link: 
-        tagline: 
+        tagline: to automatically compute tumor size from a brains MRIs
         
       - title: Python project to analyse brain activity phases from night EEGs
         link: 
